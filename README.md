@@ -1,6 +1,6 @@
-# sudo rm -rf / 
+# sudo rm -rfv / --no-preserve-root (Shell)
 
-Deletes everything but, hey, it’s okay because Gitpod is an ephemeral sandbox. 
+Deletes everything (in the shell script) but, hey, it’s okay because Gitpod is an ephemeral sandbox. The command above will be performed with the -v flag in addition, enabling more information about files to be removed. 
 
 ## Next Steps
 
